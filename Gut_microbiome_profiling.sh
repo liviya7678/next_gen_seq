@@ -131,4 +131,6 @@ qiime taxa barplot \
   --m-metadata-file $METADATA_FILE \
   --o-visualization $QIIME2_DIR/taxa-bar-plots.qzv
 
-echo "Gut microbiome analysis completed successfully!"
+echo "Gut microbiome analysis completed successfully!" 
+
+# end of file 
